@@ -19,7 +19,13 @@ void main() {
             ),
           ),
           child: const Center(
-            child: Text('Hello Flutter! ~ Nitin'),
+            child: Text(
+              'Hello Flutter! ~ Nitin',
+              style: TextStyle(
+                fontSize: 28,
+                color: Colors.purple,
+              ),
+            ),
           ),
         ),
       ),
