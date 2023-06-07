@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     const MaterialApp(
-      home: Text("Hello Flutter! ~ Nitin"),
+      home: Scaffold(
+        body: Text("Hello Flutter! ~ Nitin"),
+      ),
     ),
   );
 }
