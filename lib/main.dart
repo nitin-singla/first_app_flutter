@@ -4,6 +4,7 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors.lightBlueAccent,
         body: Center(
           child: Text('Hello Flutter! ~ Nitin'),
         ),
