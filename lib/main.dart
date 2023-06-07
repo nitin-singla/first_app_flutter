@@ -4,7 +4,9 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
-        body: Text("Hello Flutter! ~ Nitin"),
+        body: Center(
+          child: Text('Hello Flutter! ~ Nitin'),
+        ),
       ),
     ),
   );
