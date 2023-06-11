@@ -4,4 +4,4 @@ A new Flutter project. To learn Flutter step-by-step.
 
 ## Current Status -- Output
 
-![LineearGradient-begin-end](output_images/Image-asset-added.png "LineearGradient-begin-end")
+![LineearGradient-begin-end](output_images/Column-TextButton.png "LineearGradient-begin-end")
