@@ -2,6 +2,16 @@
 
 A new Flutter project. To learn Flutter step-by-step.
 
-## Current Status -- Output
+## Current Status -- Outputs
 
-![TextButton-styled](output_images/TextButton-styled.png "TextButton-styled")
+---
+Before Clicking Roll Dice
+
+![Before Clicking Roll Dice](output_images/TextButton-styled.png "After Clicking Roll Dice")
+
+---
+After Clicking Roll Dice
+
+![After Clicking Roll Dice](output_images/TextButton-styled.png "After Clicking Roll Dice")
+
+---
