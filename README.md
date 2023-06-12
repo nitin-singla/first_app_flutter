@@ -12,6 +12,6 @@ Before Clicking Roll Dice
 ---
 After Clicking Roll Dice
 
-![After Clicking Roll Dice](output_images/TextButton-styled.png "After Clicking Roll Dice")
+![After Clicking Roll Dice](output_images/dice-2.png "After Clicking Roll Dice")
 
 ---
