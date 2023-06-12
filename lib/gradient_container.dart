@@ -2,13 +2,18 @@ import 'package:flutter/material.dart';
 
 const beginAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
-void rollDice() {}
 
 class GradientContainer extends StatelessWidget {
-  const GradientContainer(this.colors, {super.key});
+  GradientContainer(this.colors, {super.key});
   // const GradientContainer({key}) : super(key: key); // works as well
 
   final List<Color> colors;
+  var activeDiceImage = 'assets/images/dice-1.png';
+
+  void rollDice() {
+    activeDiceImage = 'assets/images/dice-2.png';
+    print("checking if rollDice() is being run or not");
+  }
 
   @override
   Widget build(context) {
@@ -25,7 +30,7 @@ class GradientContainer extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             Image.asset(
-              'assets/images/dice-1.png',
+              activeDiceImage,
               width: 200,
             ),
             // const SizedBox(

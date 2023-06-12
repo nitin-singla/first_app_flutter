@@ -12,7 +12,7 @@ const gradientColors = [
 
 void main() {
   runApp(
-    const MaterialApp(
+    MaterialApp(
       home: Scaffold(
         body: GradientContainer(
           gradientColors,
