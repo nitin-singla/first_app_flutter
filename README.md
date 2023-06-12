@@ -4,4 +4,4 @@ A new Flutter project. To learn Flutter step-by-step.
 
 ## Current Status -- Output
 
-![LineearGradient-begin-end](output_images/Column-TextButton.png "LineearGradient-begin-end")
+![TextButton-styled](output_images/TextButton-styled.png "TextButton-styled")
